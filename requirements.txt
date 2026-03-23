@@ -1,8 +1,4 @@
 playwright
-pandas
 gspread
-google-auth
-google-auth-oauthlib
-selenium
 oauth2client
 pytz
